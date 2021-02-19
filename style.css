@@ -53,4 +53,18 @@ font-size: 18px;
 }
 .cart_img{
     width:200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.div_radio{
+    padding: 20px;
+    text-align: center;
+    margin:20px;
+}
+.radio{
+    padding: 20px;
+}
+.nav{
+    margin-top: 27px !important;
+    padding: 4px;
 }
